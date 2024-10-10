@@ -28,5 +28,5 @@ This project implements a **Scientific Calculator** using C++. The calculator pe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/scientific-calculator.git
+   git clone https://github.com/Priyanshsarvaiya/scientific-calculator.git
    cd scientific-calculator
